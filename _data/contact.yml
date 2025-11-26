@@ -5,7 +5,7 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'
-  url: ''  # Fill with your LinkedIn profile URL
+  url: https://www.linkedin.com/in/puneet-s-sachdeva/ # Fill with your LinkedIn profile URL
 
 - type: email
   icon: "fas fa-envelope"
