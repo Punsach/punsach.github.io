@@ -3,7 +3,7 @@ title: "Welcome to My Blog"
 date: 2025-11-20 14:30:00 -0500
 categories: [Blogging, Tutorial]
 tags: [getting-started, jekyll, chirpy]
-author: <authors>
+author: Puneet Sachdeva
 description: "An introduction to my personal blog and what you can expect to find here."
 ---
 
